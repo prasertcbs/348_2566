@@ -1,6 +1,6 @@
----
 # 2602348: Program Design (Python)
-* github: https://github.com/prasertcbs/python_class_2022
+---
+* github: https://github.com/prasertcbs/348_2566
 * author: [Prasert Kanawattanachai](mailto:prasert.k@chula.ac.th)
 * Chulalongkorn Business School
 * YouTube: https://youtube.com/prasertcbs
