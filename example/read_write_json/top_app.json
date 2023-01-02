@@ -1,0 +1,91 @@
+{
+    "feed": {
+        "title": "Top Free iPhone Apps",
+        "id": "https://rss.itunes.apple.com/api/v1/th/ios-apps/top-free/all/3/non-explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/th/itunes/"
+        },
+        "links": [
+            {
+                "self": "https://rss.itunes.apple.com/api/v1/th/ios-apps/top-free/all/3/non-explicit.json"
+            },
+            {
+                "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=36\u0026popId=27"
+            }
+        ],
+        "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+        "country": "th",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2020-04-18T01:57:47.000-07:00",
+        "results": [
+            {
+                "artistName": "Department of Agricultural Extension",
+                "id": "1448487535",
+                "releaseDate": "2019-03-21",
+                "name": "Farmbook",
+                "kind": "iosSoftware",
+                "copyright": "© Digital DOAE",
+                "artistId": "1438730420",
+                "artistUrl": "https://apps.apple.com/th/developer/department-of-agricultural-extension/id1438730420",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/f0/93/d3f0935f-397f-a659-6574-ecdc2bf4bf8f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6000",
+                        "name": "Business",
+                        "url": "https://itunes.apple.com/th/genre/id6000"
+                    }
+                ],
+                "url": "https://apps.apple.com/th/app/farmbook/id1448487535"
+            },
+            {
+                "artistName": "TikTok Pte. Ltd.",
+                "id": "1235601864",
+                "releaseDate": "2017-05-31",
+                "name": "TikTok-Global Video Community",
+                "kind": "iosSoftware",
+                "copyright": "Copyright © 2017 Bytedance Inc.",
+                "artistId": "1322881000",
+                "artistUrl": "https://apps.apple.com/th/developer/tiktok-pte-ltd/id1322881000",
+                "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/76/69/b5766980-ca31-534b-fea4-90cb7928788a/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6016",
+                        "name": "Entertainment",
+                        "url": "https://itunes.apple.com/th/genre/id6016"
+                    },
+                    {
+                        "genreId": "6008",
+                        "name": "Photo \u0026 Video",
+                        "url": "https://itunes.apple.com/th/genre/id6008"
+                    }
+                ],
+                "url": "https://apps.apple.com/th/app/tiktok-global-video-community/id1235601864"
+            },
+            {
+                "artistName": "Gosoft (Thailand) Co., Ltd.",
+                "id": "1478227014",
+                "releaseDate": "2019-09-08",
+                "name": "7-Delivery",
+                "kind": "iosSoftware",
+                "copyright": "© Gosoft (Thailand) Co., Ltd.",
+                "artistId": "1126651896",
+                "artistUrl": "https://apps.apple.com/th/developer/gosoft-thailand-co-ltd/id1126651896",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/e9/8a/37/e98a37a6-70ae-7823-5952-276052218137/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6024",
+                        "name": "Shopping",
+                        "url": "https://itunes.apple.com/th/genre/id6024"
+                    },
+                    {
+                        "genreId": "6023",
+                        "name": "Food \u0026 Drink",
+                        "url": "https://itunes.apple.com/th/genre/id6023"
+                    }
+                ],
+                "url": "https://apps.apple.com/th/app/7-delivery/id1478227014"
+            }
+        ]
+    }
+}

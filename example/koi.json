@@ -1,0 +1,3550 @@
+{
+    "id": 68235,
+    "is_active": true,
+    "is_new": false,
+    "is_premium": false,
+    "name": "KOI Th\u00e9 (SQ1)",
+    "city": {
+        "id": 983099,
+        "name": "Bangkok",
+        "is_top_city": false,
+        "url_key": "bangkok",
+        "main_area": {
+            "id": null,
+            "name": null,
+            "url_key": null
+        }
+    },
+    "chain": {
+        "id": 1083,
+        "name": "Koi The\u0027",
+        "url_key": "koi-the",
+        "is_accepting_global_vouchers": true,
+        "code": "cq8yn",
+        "main_vendor_code": "w4jn"
+    },
+    "code": "d3lp",
+    "latitude": 13.74497695,
+    "longitude": 100.53397998,
+    "description": "",
+    "logo": "",
+    "rating": 4.7,
+    "review_number": 88,
+    "review_with_comment_number": 0,
+    "address": "SS3010 \u0e0a\u0e31\u0e49\u0e19 3 388 \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21\u0e17\u0e35\u0e481 \u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19",
+    "address_line2": "",
+    "post_code": "10330",
+    "minimum_order_amount": 0,
+    "minimum_delivery_fee": 0,
+    "minimum_delivery_time": 60,
+    "minimum_pickup_time": 3,
+    "is_delivery_enabled": true,
+    "is_pickup_enabled": true,
+    "is_preorder_enabled": true,
+    "is_voucher_enabled": true,
+    "is_vat_disabled": false,
+    "is_vat_visible": true,
+    "is_vat_included_in_product_price": true,
+    "vat_percentage_amount": 0,
+    "is_service_tax_enabled": false,
+    "is_service_tax_visible": false,
+    "service_tax_percentage_amount": 0,
+    "is_service_fee_enabled": false,
+    "service_fee_percentage_amount": 0,
+    "is_checkout_comment_enabled": true,
+    "is_replacement_dish_enabled": false,
+    "custom_location_url": "",
+    "customer_type": "all",
+    "web_path": "https:\/\/www.foodpanda.co.th\/restaurant\/d3lp\/koi-the-sq1",
+    "is_test": false,
+    "redirection_url": "",
+    "url_key": "koi-the-sq1",
+    "website": "",
+    "customer_phone": "+66632025060",
+    "metadata": {
+        "is_delivery_available": true,
+        "is_pickup_available": true,
+        "has_discount": false,
+        "available_in": null,
+        "opening_times": null,
+        "timezone": "Asia\/Bangkok",
+        "events": [],
+        "close_reasons": [],
+        "is_flood_feature_closed": false
+    },
+    "location_event": {
+        "id": null,
+        "type": null,
+        "message": null,
+        "value": null,
+        "name": null,
+        "tags": null
+    },
+    "food_characteristics": [
+        {
+            "id": 81,
+            "name": "Bubble Tea",
+            "is_halal": false,
+            "is_vegetarian": false,
+            "is_mobile_filter": null
+        }
+    ],
+    "cuisines": [
+        {
+            "id": 58,
+            "name": "Beverages",
+            "url_key": "beverages"
+        }
+    ],
+    "discounts": [],
+    "schedules": [
+        {
+            "id": 0,
+            "weekday": 1,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 2,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 3,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 4,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 5,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 6,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 7,
+            "opening_type": "delivering",
+            "opening_time": "10:00",
+            "closing_time": "20:30"
+        },
+        {
+            "id": 0,
+            "weekday": 1,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        },
+        {
+            "id": 0,
+            "weekday": 2,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        },
+        {
+            "id": 0,
+            "weekday": 3,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        },
+        {
+            "id": 0,
+            "weekday": 4,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        },
+        {
+            "id": 0,
+            "weekday": 5,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        },
+        {
+            "id": 0,
+            "weekday": 6,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        },
+        {
+            "id": 0,
+            "weekday": 7,
+            "opening_type": "pickup",
+            "opening_time": "10:00",
+            "closing_time": "20:15"
+        }
+    ],
+    "time_picker": [],
+    "special_days": [],
+    "menus": [
+        {
+            "id": 127929,
+            "name": "Delivery Menu",
+            "description": "",
+            "opening_time": "00:00:00",
+            "closing_time": "23:59:00",
+            "type": "delivery",
+            "tags": {
+                "popular": {
+                    "name": "popular",
+                    "translation_keys": {
+                        "description": "NEXTGEN_POPULAR_CATEGORY_DESCRIPTION",
+                        "title": "NEXTGEN_POPULAR_DISH_TAG"
+                    },
+                    "elements": [
+                        "category",
+                        "label"
+                    ],
+                    "metadata": null
+                }
+            },
+            "menu_categories": [
+                {
+                    "id": 1606434,
+                    "code": "0567f3bd-67b0-4540-97e9-aade933720ca",
+                    "name": "Recommended Menu",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 18027705,
+                            "name": "Taro Q Milk Tea",
+                            "code": "2712ced6-7a5f-4e2b-ab34-872425a86669",
+                            "description": "",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 19282733,
+                                    "code": "f811fc27-ece1-447c-952e-c79d99758e6b",
+                                    "name": "Small",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        27066822
+                                    ]
+                                },
+                                {
+                                    "id": 19282746,
+                                    "code": "a51da74e-ca0d-41e6-997a-3a42b78f2522",
+                                    "name": "Medium",
+                                    "price": 110,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        27066822
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582962,
+                    "code": "v8ur-mc-4797",
+                    "name": "Flavored Tea",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805415,
+                            "name": "Assam Black Tea",
+                            "code": "v8ur-pr-13o6n",
+                            "description": "With choices of sweetness level and toppings available ",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283994.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283994.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651942,
+                                    "code": "v8ur-pv-19z7k",
+                                    "name": "Small",
+                                    "price": 45,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651943,
+                                    "code": "v8ur-pv-1bsul",
+                                    "name": "Medium ",
+                                    "price": 65,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805416,
+                            "name": "Jasmine Green Tea",
+                            "code": "v8ur-pr-13o6o",
+                            "description": "With choices of sweetness level and toppings available ",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283995.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283995.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651944,
+                                    "code": "v8ur-pv-19z7l",
+                                    "name": "Small",
+                                    "price": 45,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651945,
+                                    "code": "v8ur-pv-19z7m",
+                                    "name": "Medium",
+                                    "price": 65,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805417,
+                            "name": "Plum Green Tea",
+                            "code": "v8ur-pr-13o6p",
+                            "description": "With choices of sweetness level and toppings available ",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651946,
+                                    "code": "v8ur-pv-19z7n",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651947,
+                                    "code": "v8ur-pv-19z7o",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": [
+                                "popular"
+                            ]
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805418,
+                            "name": "Honey Green Tea",
+                            "code": "v8ur-pr-13o6q",
+                            "description": "With choices of sweetness level and toppings available ",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651948,
+                                    "code": "v8ur-pv-19z7p",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750055,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651949,
+                                    "code": "v8ur-pv-19z7q",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750055,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805419,
+                            "name": "Passion Fruit Green Tea",
+                            "code": "v8ur-pr-13o6r",
+                            "description": "With choices of sweetness level and toppings available ",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283998.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283998.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651950,
+                                    "code": "v8ur-pv-19z7r",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651951,
+                                    "code": "v8ur-pv-19z7s",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": [
+                                "popular"
+                            ]
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805420,
+                            "name": "Golden Oolong Tea",
+                            "code": "v8ur-pr-13o6s",
+                            "description": "With choices of sweetness level and toppings available ",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283999.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2283999.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651952,
+                                    "code": "v8ur-pv-19z7t",
+                                    "name": "Small",
+                                    "price": 45,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651953,
+                                    "code": "v8ur-pv-19z7u",
+                                    "name": "Medium",
+                                    "price": 65,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582964,
+                    "code": "v8ur-mc-4799",
+                    "name": "Chewy Tea",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805428,
+                            "name": "Bubble Black Tea",
+                            "code": "v8ur-pr-13o6z",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284006.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284006.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651968,
+                                    "code": "v8ur-pv-19z87",
+                                    "name": "Small",
+                                    "price": 55,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                },
+                                {
+                                    "id": 5651969,
+                                    "code": "v8ur-pv-19z88",
+                                    "name": "Medium",
+                                    "price": 75,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805429,
+                            "name": "Bubble Green Tea",
+                            "code": "v8ur-pr-13o70",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284007.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284007.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651970,
+                                    "code": "v8ur-pv-19z89",
+                                    "name": "Small",
+                                    "price": 55,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                },
+                                {
+                                    "id": 5651971,
+                                    "code": "v8ur-pv-19z8a",
+                                    "name": "Medium",
+                                    "price": 75,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805430,
+                            "name": "Golden Bubble Milk Tea",
+                            "code": "v8ur-pr-13o71",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284008.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284008.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651972,
+                                    "code": "v8ur-pv-19z8b",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                },
+                                {
+                                    "id": 5651973,
+                                    "code": "v8ur-pv-19z8c",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": [
+                                "popular"
+                            ]
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805431,
+                            "name": "Golden Bubble Green Milk Tea",
+                            "code": "v8ur-pr-13o72",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284009.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284009.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651974,
+                                    "code": "v8ur-pv-19z8d",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                },
+                                {
+                                    "id": 5651975,
+                                    "code": "v8ur-pv-19z8e",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": [
+                                "popular"
+                            ]
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805432,
+                            "name": "Grass Jelly Milk Tea",
+                            "code": "v8ur-pr-13o73",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284010.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284010.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651976,
+                                    "code": "v8ur-pv-19z8f",
+                                    "name": "Small",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750056
+                                    ]
+                                },
+                                {
+                                    "id": 5651977,
+                                    "code": "v8ur-pv-19z8g",
+                                    "name": "Medium",
+                                    "price": 100,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750056
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": [
+                                "popular"
+                            ]
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805433,
+                            "name": "Passion Fruit Aloe Vera",
+                            "code": "v8ur-pr-13o74",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284011.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284011.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651978,
+                                    "code": "v8ur-pv-19z8h",
+                                    "name": "Small",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                },
+                                {
+                                    "id": 5651979,
+                                    "code": "v8ur-pv-19z8i",
+                                    "name": "Medium",
+                                    "price": 100,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": [
+                                "popular"
+                            ]
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805434,
+                            "name": "Coconut Ice Cream Milk Tea",
+                            "code": "v8ur-pr-13o75",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284012.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284012.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651980,
+                                    "code": "v8ur-pv-19z8j",
+                                    "name": "Small",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                },
+                                {
+                                    "id": 5651981,
+                                    "code": "v8ur-pv-19z8k",
+                                    "name": "Medium",
+                                    "price": 100,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750058
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582965,
+                    "code": "v8ur-mc-479a",
+                    "name": "Milk Tea",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805437,
+                            "name": "Milk Tea",
+                            "code": "v8ur-pr-13o76",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284013.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284013.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651986,
+                                    "code": "v8ur-pv-19z8l",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651987,
+                                    "code": "v8ur-pv-19z8m",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805438,
+                            "name": "Green Milk Tea",
+                            "code": "v8ur-pr-13o77",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284014.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284014.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651988,
+                                    "code": "v8ur-pv-19z8n",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651989,
+                                    "code": "v8ur-pv-19z8o",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805439,
+                            "name": "Honey Milk Tea",
+                            "code": "v8ur-pr-13o78",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651990,
+                                    "code": "v8ur-pv-19z8p",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750055,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651991,
+                                    "code": "v8ur-pv-19z8q",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750055,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805440,
+                            "name": "Hazelnut Milk Tea",
+                            "code": "v8ur-pr-13o79",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651992,
+                                    "code": "v8ur-pv-19z8r",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651993,
+                                    "code": "v8ur-pv-19z8s",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805441,
+                            "name": "Caramel Milk Tea",
+                            "code": "v8ur-pr-13o7a",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651994,
+                                    "code": "v8ur-pv-19z8t",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651995,
+                                    "code": "v8ur-pv-19z8u",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805442,
+                            "name": "Ovaltine",
+                            "code": "v8ur-pr-13o7b",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284018.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284018.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651996,
+                                    "code": "v8ur-pv-19z8v",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651997,
+                                    "code": "v8ur-pv-19z8w",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805443,
+                            "name": "Chocolate Milk",
+                            "code": "v8ur-pr-13o7c",
+                            "description": "With choice of topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284019.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284019.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651998,
+                                    "code": "v8ur-pv-19z8x",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5651999,
+                                    "code": "v8ur-pv-19z8y",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805444,
+                            "name": "Oolong Milk Tea",
+                            "code": "v8ur-pr-13o7d",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652000,
+                                    "code": "v8ur-pv-19z8z",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5652001,
+                                    "code": "v8ur-pv-19z90",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805445,
+                            "name": "Cacoa Barry",
+                            "code": "w4jn-pr-1zg62",
+                            "description": "Cocoa 100% and with choices of sweetness level and topping available",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652002,
+                                    "code": "w4jn-pv-2bvgn",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5652003,
+                                    "code": "w4jn-pv-2bvgo",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582966,
+                    "code": "v8ur-mc-479b",
+                    "name": "Tea Latte",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805446,
+                            "name": "Black Tea Latte",
+                            "code": "v8ur-pr-13o7e",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284021.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284021.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652004,
+                                    "code": "v8ur-pv-19z91",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5652005,
+                                    "code": "v8ur-pv-19z92",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805447,
+                            "name": "Green Tea Latte",
+                            "code": "v8ur-pr-13o7f",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284022.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284022.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652006,
+                                    "code": "v8ur-pv-19z93",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5652007,
+                                    "code": "v8ur-pv-19z94",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805448,
+                            "name": "Matcha Latte",
+                            "code": "v8ur-pr-13o7g",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284023.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284023.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652008,
+                                    "code": "v8ur-pv-19z95",
+                                    "name": "Small",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750054
+                                    ]
+                                },
+                                {
+                                    "id": 5652009,
+                                    "code": "v8ur-pv-19z96",
+                                    "name": "Medium",
+                                    "price": 100,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750054
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805449,
+                            "name": "Oolong Tea Latte",
+                            "code": "v8ur-pr-13o7h",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284024.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284024.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652010,
+                                    "code": "v8ur-pv-19z97",
+                                    "name": "Small",
+                                    "price": 70,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 5652011,
+                                    "code": "v8ur-pv-19z98",
+                                    "name": "Medium",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 19932763,
+                            "name": "Ovaltine Latte",
+                            "code": "470f225c-e987-43ba-802f-63fb1550a82b",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/19344647.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/19344647.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 21208417,
+                                    "code": "03f331a0-0552-4985-bc6a-4302f6aa718c",
+                                    "name": "Small",
+                                    "price": 95,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 21208419,
+                                    "code": "25ea279f-f58b-4e96-9bfa-5bc661c57eb6",
+                                    "name": "Medium",
+                                    "price": 115,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 19932764,
+                            "name": "Cacao Barry Latte",
+                            "code": "3771a0a7-21ed-429e-9add-600b36fea553",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/19344665.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/19344665.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 21208416,
+                                    "code": "22ea0c37-d880-48da-b546-70010cb8117b",
+                                    "name": "Small",
+                                    "price": 95,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                },
+                                {
+                                    "id": 21208418,
+                                    "code": "230fae70-d7cd-4f04-a8b7-4789f8ace1d7",
+                                    "name": "Medium",
+                                    "price": 115,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049,
+                                        25750048
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582963,
+                    "code": "v8ur-mc-4798",
+                    "name": "Macchiato",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805421,
+                            "name": "Black Tea Macchiato",
+                            "code": "v8ur-pr-13o6t",
+                            "description": "With choices of sweetness level available. Topping add-ons are unavailable for this item!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284000.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284000.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651954,
+                                    "code": "v8ur-pv-19z7v",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651955,
+                                    "code": "v8ur-pv-19z7w",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805422,
+                            "name": "Green Tea Macchiato",
+                            "code": "v8ur-pr-13o6u",
+                            "description": "With choices of sweetness level available. Topping add-ons are unavailable for this item!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284001.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284001.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651956,
+                                    "code": "v8ur-pv-19z7x",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651957,
+                                    "code": "v8ur-pv-19z7y",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805423,
+                            "name": "Matcha Macchiato",
+                            "code": "v8ur-pr-13o6v",
+                            "description": "With choices of sweetness level available. Topping add-ons are unavailable for this item!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284002.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284002.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651958,
+                                    "code": "v8ur-pv-19z7z",
+                                    "name": "Small",
+                                    "price": 75,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651959,
+                                    "code": "v8ur-pv-19z80",
+                                    "name": "Medium",
+                                    "price": 95,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805424,
+                            "name": "Caramel Black Tea Macchiato",
+                            "code": "v8ur-pr-13o6w",
+                            "description": "With choices of sweetness level available. Topping add-ons are unavailable for this item!",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651960,
+                                    "code": "v8ur-pv-19z81",
+                                    "name": "Small",
+                                    "price": 75,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651961,
+                                    "code": "v8ur-pv-19z82",
+                                    "name": "Medium",
+                                    "price": 95,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805425,
+                            "name": "Ovaltine Macchiato",
+                            "code": "v8ur-pr-13o6x",
+                            "description": "With choices of sweetness level available. Topping add-ons are unavailable for this item!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284004.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284004.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651962,
+                                    "code": "v8ur-pv-19z83",
+                                    "name": "Small",
+                                    "price": 85,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651963,
+                                    "code": "v8ur-pv-19z84",
+                                    "name": "Medium",
+                                    "price": 105,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805426,
+                            "name": "Oolong Tea Macchiato",
+                            "code": "v8ur-pr-13o6y",
+                            "description": "With choices of sweetness level available. Topping add-ons are unavailable for this item!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284005.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284005.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651964,
+                                    "code": "v8ur-pv-19z85",
+                                    "name": "Small",
+                                    "price": 60,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651965,
+                                    "code": "v8ur-pv-19z86",
+                                    "name": "Medium",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805427,
+                            "name": "Cacao Barry Macchiato",
+                            "code": "w4jn-pr-1zg6q",
+                            "description": "Cocoa 100% and with choices of sweetness level available. Topping add-ons are unavailable for this items!",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5651966,
+                                    "code": "w4jn-pv-2bvhc",
+                                    "name": "Small",
+                                    "price": 85,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                },
+                                {
+                                    "id": 5651967,
+                                    "code": "w4jn-pv-2bvhd",
+                                    "name": "Medium",
+                                    "price": 105,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750049
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582967,
+                    "code": "v8ur-mc-479c",
+                    "name": "Brown Sugar Series",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805450,
+                            "name": "Brown Sugar Milk Tea",
+                            "code": "v8ur-pr-13o7i",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284025.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284025.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652012,
+                                    "code": "v8ur-pv-19z99",
+                                    "name": "Small",
+                                    "price": 75,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750053,
+                                        25750052
+                                    ]
+                                },
+                                {
+                                    "id": 5652013,
+                                    "code": "v8ur-pv-19z9a",
+                                    "name": "Medium",
+                                    "price": 95,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750053,
+                                        25750052
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805451,
+                            "name": "Brown Sugar Fresh Milk",
+                            "code": "v8ur-pr-13o7j",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284026.jpg?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/2284026.jpg?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652014,
+                                    "code": "v8ur-pv-19z9b",
+                                    "name": "Small",
+                                    "price": 85,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750053,
+                                        25750052
+                                    ]
+                                },
+                                {
+                                    "id": 5652015,
+                                    "code": "v8ur-pv-19z9c",
+                                    "name": "Medium",
+                                    "price": 105,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750053,
+                                        25750052
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805452,
+                            "name": "Brown Sugar Black Tea Latte",
+                            "code": "v8ur-pr-13o7k",
+                            "description": "With choices of sweetness level and topping available",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652016,
+                                    "code": "v8ur-pv-19z9d",
+                                    "name": "Small",
+                                    "price": 85,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750053,
+                                        25750052
+                                    ]
+                                },
+                                {
+                                    "id": 5652017,
+                                    "code": "v8ur-pv-19z9e",
+                                    "name": "Medium",
+                                    "price": 105,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        25750053,
+                                        25750052
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                },
+                {
+                    "id": 582971,
+                    "code": "v8ur-mc-9tnn",
+                    "name": "Fresh Milk",
+                    "description": "",
+                    "file_path": null,
+                    "mobify_file_path": null,
+                    "file_name": null,
+                    "products": [
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805472,
+                            "name": "Golden Bubble Fresh Milk",
+                            "code": "v8ur-pr-2a1kn",
+                            "description": "Topping add-ons and level of sweetness are not available!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/3841168.JPG?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/3841168.JPG?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652040,
+                                    "code": "v8ur-pv-2og47",
+                                    "name": "Small",
+                                    "price": 80,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": []
+                                },
+                                {
+                                    "id": 5652041,
+                                    "code": "v8ur-pv-2og48",
+                                    "name": "Medium",
+                                    "price": 100,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": []
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 4805474,
+                            "name": "Grass Jelly Fresh Milk",
+                            "code": "v8ur-pr-2a1ky",
+                            "description": "Topping add-ons and level of sweetness are not available!",
+                            "file_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/3841174.JPG?width=%s",
+                            "logo_path": "https:\/\/images.deliveryhero.io\/image\/fd-th\/Products\/3841174.JPG?width=%s",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 5652044,
+                                    "code": "v8ur-pv-2og4k",
+                                    "name": "Small",
+                                    "price": 90,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": []
+                                },
+                                {
+                                    "id": 5652045,
+                                    "code": "v8ur-pv-2og4l",
+                                    "name": "Medium",
+                                    "price": 110,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": []
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        },
+                        {
+                            "is_half_type_available": false,
+                            "id": 18027711,
+                            "name": "Taro Q Fresh Milk",
+                            "code": "e43dc8dc-d89b-45c8-9091-ca15ebe5404a",
+                            "description": "Topping add-ons and level of sweetness are not available!",
+                            "file_path": "",
+                            "logo_path": "",
+                            "half_type": "",
+                            "is_alcoholic_item": false,
+                            "product_variations": [
+                                {
+                                    "id": 19282752,
+                                    "code": "1c704678-319d-40f3-b1ba-c1a643041569",
+                                    "name": "Small",
+                                    "price": 100,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        27066822
+                                    ]
+                                },
+                                {
+                                    "id": 19282756,
+                                    "code": "d236f2ae-6af0-496e-b7c3-c22e35b4912e",
+                                    "name": "Medium",
+                                    "price": 120,
+                                    "price_before_discount": null,
+                                    "container_price": 0,
+                                    "choices": [],
+                                    "toppings": [],
+                                    "topping_ids": [
+                                        27066822
+                                    ]
+                                }
+                            ],
+                            "master_category_id": 11,
+                            "is_prepacked_item": false,
+                            "exclude_dish_information": false,
+                            "has_dish_information": null,
+                            "is_sold_out": false,
+                            "additives": [],
+                            "sold_out_options": [
+                                {
+                                    "default": true,
+                                    "option": "REFUND",
+                                    "text": "NEXTGEN_SoldOutOptions_Refund"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CANCEL",
+                                    "text": "NEXTGEN_SoldOutOptions_Cancel"
+                                },
+                                {
+                                    "default": false,
+                                    "option": "CALL_CUSTOMER",
+                                    "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                                }
+                            ],
+                            "tags": null
+                        }
+                    ],
+                    "master_category_id": null
+                }
+            ]
+        }
+    ],
+    "image_low_resolution": null,
+    "image_high_resolution": null,
+    "hero_image": "https:\/\/images.deliveryhero.io\/image\/fd-th\/LH\/d3lp-hero.jpg",
+    "hero_listing_image": "https:\/\/images.deliveryhero.io\/image\/fd-th\/LH\/d3lp-listing.jpg",
+    "budget": 3,
+    "tag": "",
+    "tags": null,
+    "characteristics": {
+        "cuisines": [
+            {
+                "id": 58,
+                "name": "Beverages",
+                "url_key": "beverages",
+                "main": true
+            }
+        ],
+        "food_characteristics": [
+            {
+                "id": 81,
+                "name": "Bubble Tea",
+                "is_halal": false,
+                "is_vegetarian": false
+            }
+        ],
+        "primary_cuisine": {
+            "id": 58,
+            "name": "Beverages",
+            "url_key": "beverages",
+            "main": true
+        }
+    },
+    "is_promoted": false,
+    "is_best_in_city": false,
+    "imprint": null,
+    "distance": 11148.107,
+    "toppings": {
+        "25750048": {
+            "id": 25750048,
+            "name": "Choose your topping",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631517,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 10,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631518,
+                    "product_id": 4805454,
+                    "name": "Grass Jelly",
+                    "description": "",
+                    "price": 20,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631519,
+                    "product_id": 4805455,
+                    "name": "Aloe Vera",
+                    "description": "",
+                    "price": 20,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631522,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750049": {
+            "id": 25750049,
+            "name": "Choose sweetness level",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631524,
+                    "product_id": 4805457,
+                    "name": "Sugar 0%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631525,
+                    "product_id": 4805458,
+                    "name": "Sugar 25%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631526,
+                    "product_id": 4805459,
+                    "name": "Sugar 50%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631527,
+                    "product_id": 4805460,
+                    "name": "Sugar 70%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631528,
+                    "product_id": 4805461,
+                    "name": "Sugar 100%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631529,
+                    "product_id": 4805462,
+                    "name": "Sugar 120%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750052": {
+            "id": 25750052,
+            "name": "Choose your topping for brown sugar series",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631536,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 10,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631537,
+                    "product_id": 4805454,
+                    "name": "Grass Jelly",
+                    "description": "",
+                    "price": 20,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631538,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750053": {
+            "id": 25750053,
+            "name": "Choose your sweetness level for brown sugar series",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631539,
+                    "product_id": 4805463,
+                    "name": "Normal Brown Sugar",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631540,
+                    "product_id": 4805464,
+                    "name": "Less Brown Sugar",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750054": {
+            "id": 25750054,
+            "name": "Choose your topping for Matcha Latte",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631541,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 10,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631543,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750055": {
+            "id": 25750055,
+            "name": "Choose Honey Level",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631544,
+                    "product_id": 4805413,
+                    "name": "Less Honey",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631545,
+                    "product_id": 4805414,
+                    "name": "Normal Honey",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750056": {
+            "id": 25750056,
+            "name": "Choose Topping - Chewy Tea",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631546,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631547,
+                    "product_id": 4805455,
+                    "name": "Aloe Vera",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631549,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "25750058": {
+            "id": 25750058,
+            "name": "Choose extra topping(s) - Chewy Tea",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 30631556,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 10,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631557,
+                    "product_id": 4805455,
+                    "name": "Aloe Vera",
+                    "description": "",
+                    "price": 20,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 30631559,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "27066822": {
+            "id": 27066822,
+            "name": "Toppings Taro Q",
+            "description": "",
+            "quantity_minimum": 0,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 40638384,
+                    "product_id": 18027713,
+                    "name": "Taro Q",
+                    "description": "",
+                    "price": 30,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "27167236": {
+            "id": 27167236,
+            "name": "Choose Sweetness Level for 2nd Glass",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 41325432,
+                    "product_id": 4805457,
+                    "name": "Sugar 0%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41325433,
+                    "product_id": 4805458,
+                    "name": "Sugar 25%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41325435,
+                    "product_id": 4805459,
+                    "name": "Sugar 50%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41325437,
+                    "product_id": 4805460,
+                    "name": "Sugar 70%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41325439,
+                    "product_id": 4805461,
+                    "name": "Sugar 100%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41325441,
+                    "product_id": 4805462,
+                    "name": "Sugar 120%",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "27167239": {
+            "id": 27167239,
+            "name": "Golden bubble",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 41325428,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 10,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41325429,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        },
+        "27199879": {
+            "id": 27199879,
+            "name": "Golden Bubble - 2nd",
+            "description": "",
+            "quantity_minimum": 1,
+            "quantity_maximum": 1,
+            "options": [
+                {
+                    "id": 41572748,
+                    "product_id": 4805453,
+                    "name": "Golden Bubble",
+                    "description": "",
+                    "price": 10,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                },
+                {
+                    "id": 41572749,
+                    "product_id": 4805466,
+                    "name": "None",
+                    "description": "",
+                    "price": 0,
+                    "is_sold_out": false,
+                    "is_half_half_applicable": false,
+                    "remote_code": ""
+                }
+            ]
+        }
+    },
+    "accepts_instructions": true,
+    "has_delivery_provider": true,
+    "loyalty_percentage_amount": 0,
+    "loyalty_program_enabled": false,
+    "vertical": "restaurants",
+    "vertical_segment": "restaurants",
+    "vertical_parent": "Restaurant",
+    "multiple_toppings": false,
+    "trade_register_number": ""
+}
