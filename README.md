@@ -7,6 +7,7 @@
 ---
 # Week 1: 9-Jan-2023
 * [ ] [week 1 clips](./week1_clips.md)
+## [how to ask question](https://stackoverflow.com/help/how-to-ask)
 ## Why coding?
 * [ ] [Steve Jobs](https://www.youtube.com/watch?v=BRTOlPdyPYU)
 * [ ] [Tim Cook: Apple CEO](https://www.businessinsider.com/apple-ceo-tim-cook-coding-should-be-taught-elementary-school-2022-10)
@@ -82,7 +83,7 @@
     * [ ] clone repository
       ```sh
       cd ~
-      git clone https://github.com/prasertcbs/python_class_2022.git lego
+      git clone https://github.com/prasertcbs/348_2566.git lego
       ```
     * [ ] pull latest files from git repo
       ```sh
