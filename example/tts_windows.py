@@ -1,5 +1,8 @@
 # %%
 # pip install pypiwin32
+
+"""Text-to-Speech demo
+"""
 import win32com.client as wincl
 
 def speak(s):
@@ -10,7 +13,7 @@ def speak(s):
     syn.Speak(s)
 
 # %%
-s = 'Hello my students'
+s = 'Life is beautiful'
 speak(s)
 
 # %%
