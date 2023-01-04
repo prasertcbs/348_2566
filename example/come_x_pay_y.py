@@ -4,3 +4,4 @@ def come_x_pay_y(pax, per_head, come_x=4, pay_y=3):
 
 
 print(come_x_pay_y(5, 100, 4, 3))
+print(come_x_pay_y(5, 100))
