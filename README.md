@@ -94,7 +94,7 @@
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)
 ---
 # Week 2 (16-Jan-2023)
-* [ ] [week 2 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week2_clips.md)
+* [ ] [week 2 clips](./week2_clips.md)
 ## class registration issues
 ## Program design
 * [ ] naming convention
