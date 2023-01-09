@@ -93,3 +93,48 @@
 ## Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)
 ---
+# Week 2 (16-Jan-2023)
+* [ ] [week 2 clips](https://github.com/prasertcbs/python_class_2022/blob/main/week2_clips.md)
+## class registration issues
+## Program design
+* [ ] naming convention
+  * [ ] snake
+* [ ] variable (w=5, h=2.54, fname='Peter')
+* [ ] data type (int, float, bool, str, tuple, list, dict, ...)
+* [ ] flow (sequence, condition, loop)
+  * [ ] if...elif...else
+    * [ ] rock paper scissors
+* [ ] variable scope (global, local)
+* [ ] function (just like functions in Excel)
+* [ ] Function
+  * [ ] return value(s)
+* [ ] bad function
+  * [ ] mix input, process and output
+## Principles of programming
+* [ ] Single Responsibility: Do one thing, do it best
+  * [ ] area
+    * [ ] rectangle
+    * [ ] square
+    * [ ] triangle
+    * [ ] circle
+    * [ ] cylinder
+  * [ ] body mass index
+* [ ] How to debug your code
+  * [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
+  * [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
+## Packages/Libraries
+* [ ] math
+* [ ] random
+## Extra
+* [ ] Customize your `terminal`
+  * [ ] `Windows` (PowerShell)
+    * [ ] Install Windows Terminal
+    * [ ] [Install PowerShell 7](https://www.youtube.com/watch?v=FFLrObUKgwg)
+    * [ ] [Install Oh-my-posh](https://www.youtube.com/watch?v=Soiqw0ooFRM)
+    * [ ] [Customize Windows Terminal](https://www.youtube.com/watch?v=hgx1JnU5B4k)
+  * [ ] `macOS`
+    * [ ] [Install homebrew](https://www.youtube.com/watch?v=48oicKQ2qgQ)
+    * [ ] Install iterm2
+      * [ ] `brew install --cask iterm2`
+    * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
+---
