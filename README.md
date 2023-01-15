@@ -97,9 +97,11 @@
 * [ ] [week 2 clips](./week2_clips.md)
 ## class registration issues
 ## Program design
+* [ ] Interpreter vs. Compiler
+* [ ] Whitespace sensitivity
+* [ ] variable (w=5, h=2.54, fname='Peter')
 * [ ] naming convention
   * [ ] snake
-* [ ] variable (w=5, h=2.54, fname='Peter')
 * [ ] data type (int, float, bool, str, tuple, list, dict, ...)
 * [ ] flow (sequence, condition, loop)
   * [ ] if...elif...else
@@ -108,6 +110,7 @@
 * [ ] function (just like functions in Excel)
 * [ ] Function
   * [ ] return value(s)
+  * [ ] return None
 * [ ] bad function
   * [ ] mix input, process and output
 ## Principles of programming
