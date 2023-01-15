@@ -79,7 +79,18 @@
       cd %userprofile%\lego
       git pull
       ```
-  * [ ] mac/Windows (`PowerShell`)
+  * [ ] Windows (`powershell`)
+    * [ ] clone repository
+      ```bat
+      cd ~
+      git clone https://github.com/prasertcbs/348_2566.git lego
+      ```
+    * [ ] pull latest files from git repo
+      ```bat
+      cd ~\lego
+      git pull
+      ```  
+  * [ ] mac
     * [ ] clone repository
       ```sh
       cd ~
@@ -140,4 +151,7 @@
     * [ ] Install iterm2
       * [ ] `brew install --cask iterm2`
     * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
+## Exercises
+* [ ] zodiac/horoscope
+* [ ] convert score to letter grade
 ---
