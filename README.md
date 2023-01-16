@@ -107,24 +107,18 @@
 ---
 # Week 2 (16-Jan-2023)
 * [ ] [week 2 clips](./week2_clips.md)
-## class registration issues
 ## Program design
 * [ ] Interpreter vs. Compiler
 * [ ] Whitespace sensitivity
 * [ ] variable (w=5, h=2.54, fname='Peter')
 * [ ] naming convention
-  * [ ] snake
+  * [ ] snake case (body_mass_index)
+  * [ ] camel case (bodyMassIndex)
+  * [ ] Pascal case (BodyMassIndex)
 * [ ] data type (int, float, bool, str, tuple, list, dict, ...)
 * [ ] flow (sequence, condition, loop)
   * [ ] if...elif...else
     * [ ] rock paper scissors
-* [ ] variable scope (global, local)
-* [ ] function (just like functions in Excel)
-* [ ] Function
-  * [ ] return value(s)
-  * [ ] return None
-* [ ] bad function
-  * [ ] mix input, process and output
 ## Principles of programming
 * [ ] Single Responsibility: Do one thing, do it best
   * [ ] area
@@ -158,6 +152,15 @@
 ---
 # Week 3 (23-Jan-2023)
 * [ ] [week 3 clips](./week3_clips.md)
+## Variable scope (global, local)
+## Function
+* [ ] function (just like functions in Excel)
+* [ ] function return type
+  * [ ] return value(s)
+  * [ ] return None
+* [ ] bad function
+  * [ ] mix input, process and output
+  * [ ] do more than one thing
 ## Static vs Dynamic typing systems
 * [ ] Static typing (C, Java)
 * [ ] Dynamic typing (Python, JavaScript)
@@ -165,9 +168,6 @@
   * [ ] problem with dynamic typing
     * [ ] rectangle(5, 7)
     * [ ] rectangle("5", 7)
-## Function
-* [ ] return value(s)
-* [ ] return None (void function)
 ## For Loop
 * [ ] range
 * [ ] for (simple count up/down)
