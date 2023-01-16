@@ -168,27 +168,18 @@
 ## Function
 * [ ] return value(s)
 * [ ] return None (void function)
-## Data Type
-* [ ] tuple
-* [ ] list
-## Loop
+## For Loop
 * [ ] range
 * [ ] for (simple count up/down)
   * [ ] count down with time.sleep(1)
   * [ ] multiplication table
   * [ ] temperature table
   * [ ] download crypto currencies price from yahoo
-  * [ ] [plot heart with plotly express](example/heart.ipynb)
+  * [ ] [plot heart with plotly express](./example/heart.ipynb)
   * [ ] download pokemon images
   * [ ] [download apple music album covers](https://rss.applemarketingtools.com/)
   * [ ] generate QR codes (MECARD, geo location)
-* [ ] while
-  * [ ] compare with for loop
-  * [ ] saving money
-* [ ] exit loop
-  * [ ] break
-  * [ ] continue (avoid whenever possible)
-* [ ] format string (f-string)
+
 ## Keyboard shortcuts
 | Action          | Shortcut                                        |
 |-----------------|-------------------------------------------------|

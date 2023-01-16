@@ -7,7 +7,9 @@ bmi = weight_kg / (height_m**2)
 # linter pylint
 if gender == "m":
     # literal string
-    print(f"weight={weight_kg:.2f}, height={height_m:.2f}, bmi={bmi:.2f}")  # placeholder
+    print(
+        f"weight={weight_kg:.2f}, height={height_m:.2f}, bmi={bmi:.2f}"
+    )  # placeholder
     if bmi >= 25:
         print("overweight")
         # target_weight_gain = weight_kg - bmi * (height_m**2)
