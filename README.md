@@ -156,3 +156,47 @@
 * [ ] zodiac/horoscope
 * [ ] convert score to letter grade
 ---
+# Week 3 (23-Jan-2023)
+* [ ] [week 3 clips](./week3_clips.md)
+## Static vs Dynamic typing systems
+* [ ] Static typing (C, Java)
+* [ ] Dynamic typing (Python, JavaScript)
+  * [ ] type hints
+  * [ ] problem with dynamic typing
+    * [ ] rectangle(5, 7)
+    * [ ] rectangle("5", 7)
+## Function
+* [ ] return value(s)
+* [ ] return None (void function)
+## Data Type
+* [ ] tuple
+* [ ] list
+## Loop
+* [ ] range
+* [ ] for (simple count up/down)
+  * [ ] count down with time.sleep(1)
+  * [ ] multiplication table
+  * [ ] temperature table
+  * [ ] download crypto currencies price from yahoo
+  * [ ] [plot heart with plotly express](example/heart.ipynb)
+  * [ ] download pokemon images
+  * [ ] [download apple music album covers](https://rss.applemarketingtools.com/)
+  * [ ] generate QR codes (MECARD, geo location)
+* [ ] while
+  * [ ] compare with for loop
+  * [ ] saving money
+* [ ] exit loop
+  * [ ] break
+  * [ ] continue (avoid whenever possible)
+* [ ] format string (f-string)
+## Keyboard shortcuts
+| Action          | Shortcut                                        |
+|-----------------|-------------------------------------------------|
+| Select line     | <kbd>Ctrl</kbd>+<kbd>L</kbd>                    |
+| Unindent code   | <kbd>Ctrl</kbd>+<kbd>[</kbd>                    |
+| Indent code     | <kbd>Ctrl</kbd>+<kbd>]</kbd>                    |
+| Move line up    | <kbd>Alt</kbd>+<kbd>Up</kbd>                    |
+| Move line down  | <kbd>Alt</kbd>+<kbd>Down</kbd>                  |
+| Copy line down  | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Down</kbd> |
+| Format document | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>    |
+---
