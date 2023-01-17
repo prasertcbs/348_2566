@@ -171,14 +171,8 @@
 ## For Loop
 * [ ] range
 * [ ] for (simple count up/down)
-  * [ ] count down with time.sleep(1)
   * [ ] multiplication table
   * [ ] temperature table
-  * [ ] download crypto currencies price from yahoo
-  * [ ] [plot heart with plotly express](./example/heart.ipynb)
-  * [ ] download pokemon images
-  * [ ] [download apple music album covers](https://rss.applemarketingtools.com/)
-  * [ ] generate QR codes (MECARD, geo location)
 
 ## Keyboard shortcuts
 | Action          | Shortcut                                        |
@@ -190,4 +184,12 @@
 | Move line down  | <kbd>Alt</kbd>+<kbd>Down</kbd>                  |
 | Copy line down  | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>Down</kbd> |
 | Format document | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>    |
+
+## Exercises
+  * [ ] count down with time.sleep(1)
+    * [ ] print(flush=True)
+  * [ ] [plot heart with plotly express](./example/heart.ipynb)
+  * [ ] download pokemon images
+    * [ ] need `requests` package
+
 ---
