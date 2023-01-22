@@ -152,6 +152,7 @@
 ---
 # Week 3 (23-Jan-2023)
 * [ ] [week 3 clips](./week3_clips.md)
+* [ ] [survey form (book and quiz proportion)](https://forms.gle/t6x3Z6W4NWAqhmzW6)
 ## Variable scope (global, local)
 ## Function
 * [ ] function (just like functions in Excel)
