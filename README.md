@@ -187,10 +187,52 @@
 | Format document | <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd>    |
 
 ## Exercises
-  * [ ] count down with time.sleep(1)
-    * [ ] print(flush=True)
-  * [ ] [plot heart with plotly express](./example/heart.ipynb)
-  * [ ] download pokemon images
-    * [ ] need `requests` package
-
+* [ ] count down with time.sleep(1)
+  * [ ] print(flush=True)
+* [ ] [plot heart with plotly express](./example/heart.ipynb)
+* [ ] download pokemon images
+  * [ ] need `requests` package
+---
+# Week 4 (30-Jan-2023)
+* [ ] [week 4 clips](./week4_clips.md)
+## while loop
+## String and essential methods
+* [ ] concatenate string (+)
+* [ ] in
+```py
+if 'p' in 'open':
+  print('yes')
+else:
+  print('no')
+```
+* [ ] repeat string (*)
+* [ ] upper, lower
+* [ ] slice
+  * [ ] 6241234526
+    * [ ] s[:2] -> 62
+  * [ ] Thai National ID
+  * [ ] Auspicious phone number (เบอร์มงคล)
+* [ ] replace
+```py
+s='password'
+s.replace('s', '$')
+```
+* [ ] find
+* [ ] index
+* [ ] join
+```py
+'-'.join(['J', 'A', 'R', 'V', 'I', 'S'])
+```
+* [ ] split
+  * [ ] CSV
+  * [ ] First and Last name
+    * [ ] "Peter Parker"
+      * [ ] fname = "Peter"
+      * [ ] lname = "Parker"
+* [ ] isalpha
+* [ ] isdigit
+  * [ ] sum each digit
+## Exercises 
+* [ ] acronym
+* [ ] EAN-13 check digit
 ---

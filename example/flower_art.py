@@ -1,3 +1,4 @@
+# %%
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -5,7 +6,7 @@ import numpy as np
 fig, ax = plt.subplots()
 
 # Set the number of petals and the radius of the circles
-num_petals = 6
+num_petals = 5
 circle_radius = 0.5
 
 # Create the petals as circles
@@ -21,3 +22,5 @@ ax.add_patch(plt.Circle((0, 0), radius=0.2, color='y'))
 # Display the plot
 plt.axis('equal')
 plt.show()
+
+# %%
