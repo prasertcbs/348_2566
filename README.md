@@ -224,6 +224,8 @@ s.replace('s', '$')
 ```
 * [ ] find
 * [ ] index
+* [ ] startswith
+* [ ] endswith
 * [ ] join
 ```py
 '-'.join(['J', 'A', 'R', 'V', 'I', 'S'])
@@ -238,6 +240,8 @@ s.replace('s', '$')
 * [ ] isdigit
   * [ ] sum each digit
 ## Exercises 
+* [ ] เขียนฟังก์ชันเลียนแบบการทำงาน
+  * [ ] =LEFT(), =RIGHT(), =MID() ของ Excel
 * [ ] acronym
   * [ ] get the first character from each word
 * [ ] EAN-13 (product barcode) check digit
