@@ -195,7 +195,12 @@
 ---
 # Week 4 (30-Jan-2023)
 * [ ] [week 4 clips](./week4_clips.md)
+* [ ] **วันจันทร์ที่ 6 ก.พ. 2566 ขอให้นิสิตทุกคนมาเรียนพร้อมกันตอน 9.00 น.**
+* [ ] **มีการเรียนการสอนปกติในวันที่ 20 มีนาคม 2566**
 ## while loop
+* [ ] while
+* [ ] break
+* [ ] while vs for looop
 ## String and essential methods
 * [ ] concatenate string (+)
 * [ ] in
@@ -234,5 +239,6 @@ s.replace('s', '$')
   * [ ] sum each digit
 ## Exercises 
 * [ ] acronym
-* [ ] EAN-13 check digit
+  * [ ] get the first character from each word
+* [ ] EAN-13 (product barcode) check digit
 ---
