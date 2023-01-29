@@ -195,8 +195,11 @@
 ---
 # Week 4 (30-Jan-2023)
 * [ ] [week 4 clips](./week4_clips.md)
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 27 กุมภาพันธ์ 2566 (20 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
 * [ ] **วันจันทร์ที่ 6 ก.พ. 2566 ขอให้นิสิตทุกคนมาเรียนพร้อมกันตอน 9.00 น.**
 * [ ] **มีการเรียนการสอนปกติในวันที่ 20 มีนาคม 2566**
+* [ ] google classroom registration using `xxxxxxxxxx@student.chula.ac.th` ONLY
+  * [ ] download quiz template
 ## while loop
 * [ ] while
 * [ ] break
