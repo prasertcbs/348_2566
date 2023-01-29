@@ -2,6 +2,7 @@
 # pip install pypiwin32
 
 """Text-to-Speech demo
+doc: https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms723602(v=vs.85)
 """
 import win32com.client as wincl
 
@@ -14,9 +15,9 @@ def speak(s: str):
 
 # %%
 if __name__ == '__main__':
-    # s = 'Coding is beautiful'
+    s = 'Coding is beautiful'
     # s = 'Happy Chinese New Year!!'
-    s = input('enter text ')
+    # s = input('enter text: ')
     speak(s)
 
 # %%

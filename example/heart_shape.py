@@ -1,3 +1,4 @@
+# %%
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -19,3 +20,5 @@ plt.fill(x, y, color='r', alpha=0.5)
 # Display the plot
 plt.axis('equal')
 plt.show()
+
+# %%
