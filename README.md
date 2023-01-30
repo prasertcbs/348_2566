@@ -270,5 +270,5 @@ s.replace('s', '$')
 * [ ] itertools
   * [ ] cycle
 ## Exercises
-* [ ] [1D/2D barcode generator](https://barcode.tec-it.com/en/Code128?data=2602348+Python)
+* [ ] [Thai National ID check digit](https://th.wikipedia.org/wiki/เลขประจำตัวประชาชนไทย)
 ---
