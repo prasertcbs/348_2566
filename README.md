@@ -249,3 +249,22 @@ s.replace('s', '$')
   * [ ] get the first character from each word
 * [ ] EAN-13 (product barcode) check digit
 ---
+# Week 5 (6-Feb-2023)
+* [ ] [week 5 clips](./week5_clips.md)
+* [ ] [basic markdown clips](./markdown.md)
+## Tuple and List
+* [ ] concepts
+* [ ] slice
+* [ ] iterate list
+* [ ] key methods
+  * [ ] index
+  * [ ] append
+  * [ ] remove, pop
+* [ ] multidimensional list
+* [ ] list comprehension
+* [ ] zip
+* [ ] itertools
+  * [ ] cycle
+## Exercises
+* [ ] [1D/2D barcode generator](https://barcode.tec-it.com/en/Code128?data=2602348+Python)
+---
