@@ -252,6 +252,9 @@ s.replace('s', '$')
 # Week 5 (6-Feb-2023)
 * [ ] [week 5 clips](./week5_clips.md)
 * [ ] [basic markdown clips](./markdown.md)
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 27 กุมภาพันธ์ 2566 (20 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+* [ ] google classroom registration using `xxxxxxxxxx@student.chula.ac.th` ONLY
+  * [ ] download quiz template
 ## Tuple and List
 * [ ] concepts
 * [ ] slice
