@@ -262,7 +262,7 @@ s.replace('s', '$')
 * [ ] key methods
   * [ ] index
   * [ ] append
-  * [ ] remove, pop
+  * [ ] remove
 * [ ] sum, len
 * [ ] multidimensional list
 * [ ] list comprehension
