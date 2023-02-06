@@ -274,3 +274,13 @@ s.replace('s', '$')
 ## Exercises
 * [ ] [Thai National ID check digit](https://th.wikipedia.org/wiki/เลขประจำตัวประชาชนไทย)
 ---
+# Week 6 (20-Feb-2023)
+* [ ] **วันจันทร์ที่ 20 ก.พ. 2566 ขอให้นิสิตทุกคนมาเรียนพร้อมกันตอน 9.00 น.**
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 27 กุมภาพันธ์ 2566 (20 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+  * [ ] Closed book quiz
+  * [ ] No Internet connection during quiz
+* [ ] google classroom registration using `xxxxxxxxxx@student.chula.ac.th` ONLY
+  * [ ] download quiz template
+## สรุปทบทวนเนื้อหาที่ผ่านมา
+* [ ] ทำ Exercises Week 1 - 5
+---
