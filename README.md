@@ -284,3 +284,22 @@ s.replace('s', '$')
 ## สรุปทบทวนเนื้อหาที่ผ่านมา
 * [ ] ทำ Exercises Week 1 - 5
 ---
+# Week 7 (27-Feb-2023)
+* [ ] **สอบย่อยครั้งที่ 1 วันที่ 27 กุมภาพันธ์ 2566 (20 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+  * [ ] Closed book quiz
+  * [ ] No Internet connection during quiz
+---
+# Week 10 (20-Mar-2023)
+* [ ] [week 10 clips](./week10_clips.md)
+## Dictionary
+* [ ] concepts
+* [ ] iterate
+* [ ] dictionary comprehension
+* [ ] sort
+## Python Dictionary + List vs JSON
+* [ ] JSON to Python Dictionary
+* [ ] Python Dictionary to JSON
+### Exercises
+* [ ] [MRT exits](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=28)
+* [ ] [Starbucks menu as list of dictionary](https://www.starbucks.co.th/menu/)
+* [ ] [ตารางสีเสื้อมงคล 2566](https://www.shopat24.com/blog/fashion/lucky-colors-mutelu-wear-2023/)
