@@ -290,7 +290,10 @@ s.replace('s', '$')
   * [ ] No Internet connection during quiz
 ---
 # Week 10 (20-Mar-2023)
-* [ ] [week 10 clips](./week10_clips.md)
+* [ ] [📺 week 10 clips](./week10_clips.md)
+* [ ] **สอบย่อยครั้งที่ 2 วันที่ 1 พฤษภาคม 2566 (15 คะแนน) สอบพร้อมกันทุกคนเริ่มเวลา 9.00 น.**
+  * [ ] Closed book quiz
+  * [ ] No Internet connection during quiz
 ## Dictionary
 * [ ] concepts
 * [ ] iterate
@@ -300,6 +303,6 @@ s.replace('s', '$')
 * [ ] JSON to Python Dictionary
 * [ ] Python Dictionary to JSON
 ### Exercises
+* [ ] [ตารางสีเสื้อมงคล 2566](https://www.shopat24.com/blog/fashion/lucky-colors-mutelu-wear-2023/)
 * [ ] [MRT exits](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=28)
 * [ ] [Starbucks menu as list of dictionary](https://www.starbucks.co.th/menu/)
-* [ ] [ตารางสีเสื้อมงคล 2566](https://www.shopat24.com/blog/fashion/lucky-colors-mutelu-wear-2023/)
