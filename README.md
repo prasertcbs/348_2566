@@ -4,7 +4,6 @@
 * author: [Prasert Kanawattanachai](mailto:prasert.k@chula.ac.th)
 * Chulalongkorn Business School
 * YouTube: https://youtube.com/prasertcbs
-* clipboard: https://collabedit.com/bpnu5
 ---
 # Week 1: 8-Jan-2024
 ## book
