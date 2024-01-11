@@ -51,6 +51,25 @@
 * [ ] `mv`: move file
 * [ ] `rm`: delete file
 * [ ] `man`: command manual
+## ตำรา
+- บทที่ 1-2 Python ใคร ๆ ก็เขียนโปรแกรมได้
+### 1. ทำไมต้องเขียนโค้ด
+1.1	โปรแกรมคอมพิวเตอร์คืออะไร
+1.2	ทำไมถึงควรเรียนรู้การเขียนโปรแกรม
+1.3	ภาษาคอมพิวเตอร์คืออะไร
+1.4	Interpreter กับ Compiler
+1.5	ตัวอย่างภาษาคอมพิวเตอร์
+1.6	ขั้นตอนการทำงานของโปรแกรมคอมพิวเตอร์
+1.7	โค้ดที่ดีเป็นอย่างไร
+1.8	สรุป
+### 2. รู้จักภาษาไพทอน Python
+2.1	ภาษาไพทอน
+2.2	รูปแบบของภาษาไพทอน
+2.3	ฟังก์ชัน print()
+2.4	คำอธิบายโค้ด (comment)
+2.5	คำสงวน (reserved keywords) ของภาษาไพทอน
+2.6	การควบคุมทิศทางการทำงานของโปรแกรม
+2.7	สรุป
 ## First program: Hello World
 * [ ] New, Edit, Save, Run Python file
 ## [Programming concepts](https://www.youtube.com/watch?v=bu6kwrpOqFM&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW)
@@ -105,3 +124,59 @@
       ```
 ## Class exercises
 * [ ] find a simple real-world application (e.g., come x pay y, buy 1 get 1 free)
+---
+# Week 2 (15-Jan-2024)
+- [ ] บทที่ 3-4 Python ใคร ๆ ก็เขียนโปรแกรมได้
+- [ ] [week 2 clips](ใweek2_clips.md)
+## class registration issues
+## [how to ask question](https://stackoverflow.com/help/how-to-ask)
+## ตำรา 
+- บทที่ 3-4 Python ใคร ๆ ก็เขียนโปรแกรมได้
+### 3. ตัวแปร (variable)
+3.1	ตัวแปร (variable) คืออะไร
+3.2	ประเภทของตัวแปร (variable types)
+3.3	การใช้งานตัวแปร
+3.4	วิธีการตั้งชื่อตัวแปร
+3.5	Static typing กับ Dynamic typing คืออะไร
+3.6	Type hints
+3.7	ขอบเขตของตัวแปร (variable scope)
+3.8	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข
+3.9	สรุป
+### 4. ตัวดำเนินการ (operator)
+4.1	รู้จักตัวดำเนินการ (operator)
+4.2	ตัวดำเนินการทางคณิตศาสตร์ (Arithmetic operators)
+4.3	ตัวดำเนินการที่ใช้ในการเปรียบเทียบค่า (Comparison operators)
+4.4	ตัวดำเนินการทางตรรกศาสตร์ (Logical operators)
+4.5	ตัวดำเนินการตรวจสอบการเป็นสมาชิก (Membership operators)
+4.6	ตัวดำเนินการเกี่ยวกับสตริง (String operators)
+4.7	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข
+4.8	สรุป
+## Principles of programming
+- [ ] Single Responsibility: Do one thing, do it best
+  - [ ] area
+    - [ ] rectangle
+    - [ ] square
+    - [ ] triangle
+    - [ ] circle
+    - [ ] cylinder
+  * [ ] body mass index
+## How to debug your code
+  - [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
+  * [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
+## Packages/Libraries
+- [ ] math
+- [ ] random
+  - dice
+  - coin flip
+## Extra:
+* [ ] Customize your `terminal`
+  * [ ] `Windows` (PowerShell)
+    * [ ] Install Windows Terminal
+    * [ ] [Install PowerShell 7](https://www.youtube.com/watch?v=FFLrObUKgwg)
+    * [ ] [Install Oh-my-posh](https://www.youtube.com/watch?v=Soiqw0ooFRM)
+    * [ ] [Customize Windows Terminal](https://www.youtube.com/watch?v=hgx1JnU5B4k)
+  * [ ] `macOS`
+    * [ ] [Install homebrew](https://www.youtube.com/watch?v=48oicKQ2qgQ)
+    * [ ] Install iterm2
+    * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
+---
