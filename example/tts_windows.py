@@ -16,8 +16,7 @@ def speak(s: str):
 # %%
 if __name__ == '__main__':
     s = 'Coding is beautiful'
+    # s = 'สวัสดีครับ'
     # s = 'Happy Chinese New Year!!'
     # s = input('enter text: ')
     speak(s)
-
-# %%
