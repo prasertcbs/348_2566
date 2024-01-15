@@ -127,30 +127,30 @@
 ---
 # Week 2 (15-Jan-2024)
 - [ ] บทที่ 3-4 Python ใคร ๆ ก็เขียนโปรแกรมได้
-- [ ] [week 2 clips](ใweek2_clips.md)
+- [ ] [week 2 clips](week2_clips.md)
 ## class registration issues
 ## [how to ask question](https://stackoverflow.com/help/how-to-ask)
 ## ตำรา 
 - บทที่ 3-4 Python ใคร ๆ ก็เขียนโปรแกรมได้
 ### 3. ตัวแปร (variable)
-3.1	ตัวแปร (variable) คืออะไร
-3.2	ประเภทของตัวแปร (variable types)
-3.3	การใช้งานตัวแปร
-3.4	วิธีการตั้งชื่อตัวแปร
-3.5	Static typing กับ Dynamic typing คืออะไร
-3.6	Type hints
-3.7	ขอบเขตของตัวแปร (variable scope)
-3.8	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข
-3.9	สรุป
+3.1	ตัวแปร (variable) คืออะไร  
+3.2	ประเภทของตัวแปร (variable types)  
+3.3	การใช้งานตัวแปร  
+3.4	วิธีการตั้งชื่อตัวแปร  
+3.5	Static typing กับ Dynamic typing คืออะไร  
+3.6	Type hints  
+3.7	ขอบเขตของตัวแปร (variable scope)  
+3.8	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
+3.9	สรุป  
 ### 4. ตัวดำเนินการ (operator)
-4.1	รู้จักตัวดำเนินการ (operator)
-4.2	ตัวดำเนินการทางคณิตศาสตร์ (Arithmetic operators)
-4.3	ตัวดำเนินการที่ใช้ในการเปรียบเทียบค่า (Comparison operators)
-4.4	ตัวดำเนินการทางตรรกศาสตร์ (Logical operators)
-4.5	ตัวดำเนินการตรวจสอบการเป็นสมาชิก (Membership operators)
-4.6	ตัวดำเนินการเกี่ยวกับสตริง (String operators)
-4.7	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข
-4.8	สรุป
+4.1	รู้จักตัวดำเนินการ (operator)  
+4.2	ตัวดำเนินการทางคณิตศาสตร์ (Arithmetic operators)  
+4.3	ตัวดำเนินการที่ใช้ในการเปรียบเทียบค่า (Comparison operators)  
+4.4	ตัวดำเนินการทางตรรกศาสตร์ (Logical operators)  
+4.5	ตัวดำเนินการตรวจสอบการเป็นสมาชิก (Membership operators)  
+4.6	ตัวดำเนินการเกี่ยวกับสตริง (String operators)  
+4.7	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
+4.8	สรุป  
 ## Principles of programming
 - [ ] Single Responsibility: Do one thing, do it best
   - [ ] area
@@ -180,3 +180,24 @@
     * [ ] Install iterm2
     * [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
 ---
+# Week 3 (22-Jan-2024)
+- [ ] บทที่ 5-6 Python ใคร ๆ ก็เขียนโปรแกรมได้
+- [ ] [week 3 clips](week3_clips.md)
+## ตำรา 
+- บทที่ 5-6 Python ใคร ๆ ก็เขียนโปรแกรมได้
+### 5. สตริง (string)
+5.1	การกำหนดค่า  
+5.2	การใช้งานสตริง  
+5.3	การใช้ f-string  
+5.4	escape sequences  
+5.5	การใช้ raw string  
+5.6	การดึงส่วนของสตริงด้วย slicing  
+5.7	รู้จักกับรหัส ASCII  
+5.8	รู้จักกับรหัส Unicode  
+5.9	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
+5.10	สรุป  
+### 6. การตรวจสอบเงื่อนไขด้วย if
+6.1	ไวยากรณ์  
+6.2	การใช้งาน  
+6.3	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
+6.4	สรุป  
