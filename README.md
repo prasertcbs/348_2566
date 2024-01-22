@@ -186,6 +186,21 @@
 6.2	การใช้งาน  
 6.3	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
 6.4	สรุป  
+
+---
+# Week 4 (29-Jan-2024)
+- [ ] บทที่ 7 Python ใคร ๆ ก็เขียนโปรแกรมได้
+- [ ] [week 4 clips](week4_clips.md)
+
+## ตำรา 
+- บทที่ 7 Python ใคร ๆ ก็เขียนโปรแกรมได้
+7. การวนซ้ำแบบลูป while  
+7.1	ไวยากรณ์  
+7.2	การใช้งานลูป while  
+7.3	การใช้งานลูป do...while  
+7.4	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
+7.5	สรุป  
+
 ## Principles of programming
 - [ ] Single Responsibility: Do one thing, do it best
   - [ ] area
@@ -195,9 +210,11 @@
     - [ ] circle
     - [ ] cylinder
   - [ ] body mass index
+
 ## How to debug your code
   - [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
   - [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
+
 ## Packages/Libraries
 - [ ] math
 - [ ] random
