@@ -191,7 +191,8 @@
 # Week 4 (29-Jan-2024)
 - [ ] บทที่ 7 Python ใคร ๆ ก็เขียนโปรแกรมได้
 - [ ] [week 4 clips](week4_clips.md)
-
+- [ ] 19-Feb-2024: quiz 40 points
+- [ ] 22-Apr-2024: quiz xx points
 ## ตำรา 
 - บทที่ 7 Python ใคร ๆ ก็เขียนโปรแกรมได้
 7. การวนซ้ำแบบลูป while  
