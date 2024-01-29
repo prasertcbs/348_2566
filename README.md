@@ -202,6 +202,32 @@
 7.4	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
 7.5	สรุป  
 
+## How to debug your code
+  - [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
+  - [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
+
+
+---
+# Week 5 (5-Feb-2024)
+- [ ] บทที่ 8 Python ใคร ๆ ก็เขียนโปรแกรมได้
+- [ ] check google classroom
+- [ ] [week 5 clips](week5_clips.md)
+- [ ] 19-Feb-2024: quiz 40 points
+- [ ] 22-Apr-2024: quiz xx points
+## ตำรา 
+- บทที่ 8 Python ใคร ๆ ก็เขียนโปรแกรมได้
+8. การวนซ้ำแบบลูป for  
+8.1	ไวยากรณ์  
+8.2	การใช้ range()  
+8.3	iterable คืออะไร  
+8.4	ลูปซ้อนลูป (nested loop)  
+8.5	break และ continue  
+8.6	เปรียบเทียบลูปแบบ for และ while  
+8.7	การใช้ enumerate()  
+8.8	การใช้ zip()  
+8.9	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
+8.10	สรุป
+
 ## Principles of programming
 - [ ] Single Responsibility: Do one thing, do it best
   - [ ] area
@@ -211,10 +237,6 @@
     - [ ] circle
     - [ ] cylinder
   - [ ] body mass index
-
-## How to debug your code
-  - [ ] [Python Preview](https://youtu.be/4r4Qb1a1rD4)
-  - [ ] [Visual Studio Code Debugger](https://youtu.be/89Ch7ON2Tqg) 
 
 ## Packages/Libraries
 - [ ] math
