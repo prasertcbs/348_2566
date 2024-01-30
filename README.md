@@ -209,11 +209,11 @@
 
 ---
 # Week 5 (5-Feb-2024)
+- [ ] ❗final warning: register google classroom with @student.chula.ac.th account only
 - [ ] บทที่ 8 Python ใคร ๆ ก็เขียนโปรแกรมได้
-- [ ] check google classroom
 - [ ] [week 5 clips](week5_clips.md)
-- [ ] 19-Feb-2024: quiz 40 points
-- [ ] 22-Apr-2024: quiz xx points
+- [ ] 📢 19-Feb-2024: quiz 40 points
+- [ ] 📢 22-Apr-2024: quiz xx points
 ## ตำรา 
 - บทที่ 8 Python ใคร ๆ ก็เขียนโปรแกรมได้
 8. การวนซ้ำแบบลูป for  
