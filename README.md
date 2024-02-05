@@ -228,8 +228,45 @@
 8.9	ข้อผิดพลาดที่มักพบและวิธีการแก้ไข  
 8.10	สรุป
 
+
+## Packages/Libraries
+- [ ] math
+- [ ] random
+  - dice
+  - coin flip
+
+---
+# Week 6 (12-Feb-2024)
+- [ ] บทที่ 1-8 Python ใคร ๆ ก็เขียนโปรแกรมได้
+- [ ] 📢 19-Feb-2024: quiz 40 points
+- [ ] 📢 22-Apr-2024: quiz xx points
+## install packages/modules/libraries
+- [how to use packages](https://www.youtube.com/watch?v=iNmrsrwjzvE)
+  - pip install requests pillow seaborn matplotlib
+- [how to import package](https://www.youtube.com/watch?v=tglWu0KGa_M)
+  - import random
+  - import seaborn as sns
+  - from PIL import Image
+  - import matplotlib.pyplot as plt
+## comprehensive case study (เนื้อหาบทที่ 1-8)
+- blindbox
+  - list
+    - store image URLs
+  - random
+    - randint
+    - randrange
+  - [requests image from URL](https://www.youtube.com/watch?app=desktop&v=EUHT7pFaywU)
+  - image
+    - read
+      - local
+      - URL
+    - display
+    - save
+    - resize
 ## Principles of programming
 - [ ] Single Responsibility: Do one thing, do it best
+  - [ ] get image
+  - [ ] save image
   - [ ] area
     - [ ] rectangle
     - [ ] square
@@ -237,9 +274,3 @@
     - [ ] circle
     - [ ] cylinder
   - [ ] body mass index
-
-## Packages/Libraries
-- [ ] math
-- [ ] random
-  - dice
-  - coin flip
